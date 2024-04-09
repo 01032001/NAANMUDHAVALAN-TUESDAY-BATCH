@@ -1,11 +1,6 @@
 PROJECT CREATED BY : SHREE VARSHENEE K 511321205035 KINGSTON ENGINEERING COLLEGE, VELLORE
 
-LOGIN DETAILS:
-
-UNAME: admin
-
-Password:admin
-
+LOGIN DETAILS: UNAME: admin Password: admin
 #Project Running steps:
 
 python manage.py makemigrations
